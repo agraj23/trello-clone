@@ -1,7 +1,7 @@
 
 # Trello Clone
 
-Trello clone is a project management tool that allows you to organize and prioritize your projects in a fun and flexibleway. With the Trello Android app, you can access your Trello boards and lists on the go, from your Android device.
+Trello clone is a project management tool that allows you to organize and prioritize your projects in a fun and flexible way. With the Trello Android app, you can access your Trello boards and lists on the go, from your Android device.
 
 This app is built using the following technology stack:
 
